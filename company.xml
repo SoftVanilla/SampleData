@@ -1,0 +1,9 @@
+<company>
+    <department name="개발팀">
+        <employee>홍길동</employee>
+        <employee>이순신</employee>
+    </department>
+    <department name="디자인팀">
+        <employee>유관순</employee>
+    </department>
+</company>
